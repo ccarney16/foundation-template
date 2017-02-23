@@ -1,0 +1,23 @@
+{
+  "name": "zyphinia.v2",
+  "description": "Realm of Zyphinia v2",
+  "main": "gulpfile.js",
+  "authors": [
+    "ccarney"
+  ],
+  "license": "Proprietary",
+  "homepage": "https://zyphinia.cf",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "foundation-sites": "^6.3.0",
+    "motion-ui": "^1.2.2"
+  }
+}
